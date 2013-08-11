@@ -1,0 +1,476 @@
+a,ab/from,away from,by
+absum,abesse,afui/am absent,am away
+ac,atque/and
+accido,accidere,accidi/happen
+accipio,accipere,accepi,acceptus/accept,take in,receive
+ad/to,towards,at
+adeo/so much,so greatly
+adsum,adesse,adfui/be here,be present
+advenio,advenire,adveni/arrive
+aedifico,aedificare,aedificavi,aedificatus/build
+ager,agri/field
+ago,agere,egi,actus/do,act,drive
+alii...alii/some...others
+alius,alia,aliud/other,another,else
+alter,altera,alterum/the other,another,the second of two
+altus,alta,altum/high,deep
+ambulo,ambulare,ambulavi/walk
+amicus,amici/friend
+amo,amare,amavi,amatus/love,like
+amor,amoris/love
+ancilla,ancillae/slave-girl,slave-woman
+animus,animi/spirit,soul,mind
+annus,anni/year
+ante/before,in front of
+antea/before
+appareo,apparere,apparui/appear
+appropinquo,appropinquare,appropinquavi/approach,come near to
+apud/among,with,at the house of
+aqua,aquae/water
+arma,armorum/arms,weapons
+ars,artis/art,skill
+ascendo,ascendere,ascendi,ascensus/climb
+audax,audacis/bold,daring
+audeo,audere,ausussum/dare
+audio,audire,audivi,auditus/hear,listen to
+aufero,auferre,abstuli,ablatus/take away,carry off,steal
+autem/but,however
+auxilium,auxilii/help
+bellum,belli/war
+bellum gero,gerere,gessi,gestus/wage war
+bene/well
+benignus,benigna,benignum/kind
+bibo,bibere,bibi/drink
+bonus,bona,bonum/good
+brevis,breve/short,brief
+cado,cadere,cecidi,casus/fall
+caelum,caeli/sky,heaven
+canis,canis/dog
+capio,capere,cepi,captus/take,catch,capture
+captivus,captivi/captive,prisoner
+caput,capitis/head
+castra,castrorum/camp
+celer,celeris,celere/quick,fast
+celo,celare,celavi,celatus/hide
+cena,cenae/dinner,meal
+ceteri,ceterae,cetera/the rest,the others
+cibus,cibi/food
+circum/around
+civis,civis,mand/citizen
+clamo,clamare,clamavi,clamatus/shout
+clamor,clamoris/shout,shouting,noise
+clarus,clara,clarum/famous,clear
+coepi,coepisse/begin
+cogito,cogitare,cogitavi,cogitatus/think,consider
+cognosco,cognoscere,cognovi,cognitus/get to know,find out
+cogo,cogere,coegi,coactus/force,compel
+comes,comitis,mand/comrade,companion
+conficio,conficere,confeci,confectus/finish,wear out
+conor,conari,conatussum/try
+consilium,consilii/plan,idea,advice
+conspicio,conspicere,conspexi,conspectus/catch sight of,notice
+constituo,constituere,constitui,constitutus/decide
+consul,consulis/consul
+consumo,consumere,consumpsi,consumptus/eat
+contra/against
+convenio,convenire,conveni/come together,gather,meet
+copiae,copiarum/forces,troops
+corpus,corporis/body
+cras/tomorrow
+credo,credere,credidi,creditus/believe,trust
+crudelis,crudele/cruel
+cum/with
+cum/when,since
+cupio,cupere,cupivi,cupitus/want,desire
+cur?/why?
+cura,curae/care,worry
+curro,currere,cucurri,cursus/run
+custodio,custodire,custodivi,custoditus/guard
+custos,custodis,mand/guard
+de/from,down from,about
+dea,deae/goddess
+debeo,debere,debui,debitus/owe,ought,should,must
+defendo,defendere,defendi,defensus/defend
+deinde/then
+deleo,delere,delevi,deletus/destroy
+descendo,descendere,descendi,descensus/go down,come down
+deus,dei/god
+dico,dicere,dixi,dictus/say
+dies,diei/day
+difficilis,difficile/difficult
+diligens,diligentis/careful
+dirus,dira,dirum/dreadful
+discedo,discedere,discessi/depart,leave
+diu/for a long time
+do,dare,dedi,datus/give
+doceo,docere,docui,doctus/teach
+domina,dominae/mistress
+dominus,domini/master
+domus,domus/home
+domi,domi/at home
+donum,doni/gift,present
+dormio,dormire,dormivi/sleep
+duco,ducere,duxi,ductus/lead,take
+dum/while,until
+dux,ducis/leader
+e,ex/from,out of,out
+ecce!/look!
+effugio,effugere,effugi/escape
+ego,mei/I,me
+egredior,egredi,egressussum/go out
+emo,emere,emi,emptus/buy
+enim/for
+eo,ire/go
+epistula,epistulae/letter
+equus,equi/horse
+et/and
+et ... et/both ... and
+etiam/also,even
+exercitus,exercitus/army
+exspecto,exspectare,exspectavi,exspectatus/wait for
+facilis,facile/easy
+facio,facere,feci,factus/make,do
+faveo,favere,favi,fautus/favour,support
+felix,felicis/fortunate,happy
+femina,feminae/woman
+fero,ferre,tuli,latus/bring,carry,bear
+ferox,ferocis/fierce,ferocious
+festino,festinare,festinavi/hurry
+fidelis,fidele/faithful,loyal
+filia,filiae/daughter
+filius,filii/son
+flumen,fluminis/river
+forte/by chance
+fortis,forte/brave
+forum,fori/forum,market place
+frater,fratris/brother
+frustra/in vain
+fugio,fugere,fugi/run away,flee
+gaudeo,gaudere,gavisussum/be pleased,rejoice
+gaudium,gaudii/joy,pleasure
+gens,gentis/family,tribe,race,people
+gladius,gladii/sword
+gravis,grave/heavy,serious
+habeo,habere,habui,habitus/have
+habito,habitare,habitavi,habitatus/live
+heri/yesterday
+hic,haec,hoc/this,he,she,it
+hic/here
+hodie/today
+homo,hominis/man,human being
+hora,horae/hour
+hortor,hortari,hortatussum/encourage,urge
+hortus,horti/garden
+hostis,hostis/enemy
+iaceo,iacere,iacui/lie
+iacio,iacere,ieci,iactus(incompounds-icio)/throw
+iam/now,already
+ianua,ianuae/door
+ibi/there
+idem,eadem,idem/the same
+igitur/therefore,and so
+ille,ilIa,illud/that,he,she,it
+imperator,imperatoris/emperor,general,leader
+imperium,imperii/empire,power,command
+impero,imperare,imperavi,imperatus/order,command,power
+in/in,on
+in/into,onto
+incendo,incendere,incendi,incensus/burn,set on fire
+infelix,infelicis/unlucky,unhappy
+ingens,ingentis/huge
+ingredior,ingredi,ingressussum/enter
+inimicus,inimici/enemy
+inquit/he/she says,he/she said
+insula,insulae/island,block of flats
+intellego,intellegere,intellexi,intellectus/understand,realise
+inter/among,between
+interea/meanwhile
+interficio,interficere,interfeci,interfectus/kill
+intro,intrare,intravi,intratus/enter
+invenio,invenire,inveni,inventus/find
+invito,invitare,invitavi,invitatus/invite
+ipse,ipsa,ipsum/himself,herself,itself,themselves
+ira,irae/anger
+iratus,irata,iratum/angry
+is,ea,id/this,that,he,she,it,them
+ita/in this way,to such an extent,so
+itaque/and so,therefore
+iter,itineris/journey
+iterum/again
+iubeo,iubere,iussi,iussus/order
+iuvenis,iuvenis/young man
+labor,laboris/work
+laboro,laborare,laboravi/work
+lacrimo,lacrimare,lacrimavi/weep,cry
+laetus,laeta,laetum/happy
+laudo,laudare,laudavi,laudatus/praise
+legio,legionis/legion
+lego,legere,legi,lectus/read,choose
+lentus,lenta,lentum/slow
+leo,leonis/lion
+libenter/willingly,gladly
+liber,libri/book
+liberi,liberorum/children
+libero,liberare,liberavi,liberatus/set free
+libertus,liberti/freedman,ex-slave
+locus,loci/place
+longus,longa,longum/long
+loquor,loqui,locutussum/speak
+lux,lucis/light,daylight
+magis/more
+magnopere/greatly
+magnus,magna,magnum/big,large,great
+malo,malle,malui/prefer
+malus,mala,malum/evil,bad
+maneo,manere,mansi/remain,stay
+manus,manus/hand,group of people
+mare,maris/sea
+maritus,mariti/husband
+mater,matris/mother
+maxime/very greatly
+medius,media,medium/middle
+mercator,mercatoris/merchant
+meus,mea,meum/my
+miles,militis/soldier
+minime/very little,least,no
+miror,mirari,miratussum/wonder at,admire
+miser,misera,miserum/miserable,wretched,sad
+mitto,mittere,misi,missus/send
+modus,modi/manner,way,kind
+moneo,monere,monui,monitus/warn,advise
+mons,montis/mountain
+morior,mori,mortuussum/die
+mors,mortis/death
+moveo,movere,movi,motus/move
+mox/soon
+multo/much
+multus,multa,multum/much,many
+murus,muri/wall
+nam/for
+narro,narrare,narravi,narratus/tell,relate
+nauta,nautae/sailor
+navigo,navigare,navigavi/sail
+navis,navis/ship
+ne,subjunctive/that ... not,so that ... not,that,lest
+-ne/(introduces question)
+nec,neque/and not,nor,neither
+neco,necare,necavi,necatus/kill
+nemo,neminis/no one,nobody
+nescio,nescire,nescivi/not know
+nihil/nothing
+nisi/unless,except
+nolo,nolle,nolui/not want,refuse
+nomen,nominis/name
+non/not
+nonne ...?/surely ... ?
+nonnulli,nonnullae,nonnulla/some,several
+nos,nostrum/we,us
+noster,nostra,nostrum/our
+novus,nova,novum/new
+nox,noctis/night
+nullus,nulla,nullum/not any,no
+num/whether
+num ... ?/surely ... not?
+numquam/never
+nunc/now
+nuntio,nuntiare,nuntiavi,nuntiatus/announce
+nuntius,nuntii/messenger,message,news
+occido,occidere,occidi,occisus/kill
+offero,offerre,obtuli,oblatus/offer
+olim/once,some time ago
+omnis,omne/all,every
+opprimo,opprimere,oppressi,oppressus/crush,overwhelm
+oppugno,oppugnare,oppugnavi,oppugnatus/attack
+oro,orare,oravi,oratus/beg
+ostendo,ostendere,ostendi,ostentus/show
+paene/almost,nearly
+paro,parare,paravi,paratus/prepare
+pars,partis/part
+parvus,parva,parvum/small
+pater,patris/father
+patior,pati,passussum/suffer,endure
+patria,patriae/country,homeland
+pauci,paucae,pauca/few,a few
+pax,pacis/peace
+pecunia,pecuniae/money
+pello,pellere,pepuli,pulsus/drive
+per/through,along
+pereo,perire,perii/die,perish
+periculum,periculi/danger
+persuadeo,persuadere,persuasi/persuade
+perterritus,perterrita,perterritum/terrified
+pervenio,pervenire,perveni,perventus/reach,arrive at
+pes,pedis/foot
+peto,petere,petivi,petitus/make for,seek,beg or ask for
+plenus,plena,plenum/full
+poena,poenae/punishment
+poenas do/pay the penalty,am punished
+pono,ponere,posui,positus/put,place,put up
+porta,portae/gate
+porto,portare,portavi,portatus/carry
+portus,portus/harbour,port
+possum,posse,potui/can,be able
+post/after,behind
+postea/afterwards
+postquam/after,when
+postridie/on the next day
+praemium,praemii/prize,reward,profit
+precor,precari,precatussum/pray (to),beg
+primo/at first
+primus,prima,primum/first
+princeps,principis/chief,emperor
+pro/in front of,for,in return for
+procedo,procedere,processi/advance,proceed
+proelium,proelii/battle
+proficiscor,proficisci,profectussum/set out
+progredior,progredi,progressussum/advance
+promitto,promittere,promisi,promissus/promise
+prope/near
+propter/on account of,because of
+proximus,proxima,proximum/nearest,next to
+puella,puellae/girl
+puer,pueri/boy
+pugno,pugnare,pugnavi/fight
+pulcher,pulchra,pulchrum/beautiful,handsome
+punio,punire,punivi,punitus/punish
+puto,putare,putavi,putatus/think
+quaero,quaerere,quaesivi,quaesitus/search for,look for,ask
+qualis?,quale/what sort of?
+quam/as ... as possible
+quam/than
+quam? quam!/how ... ? how ... !
+quamquam/although
+quando?/when?
+quantus?,quanta?quantum?/how big? how much?
+-que/and
+qui,quae,quod/who,which
+quidam,quaedam,quoddam/one,a certain,some
+quis?,quid?/who? what?
+quo?/to where?
+quod/because
+quomodo?/how?
+quoque/also,too
+quot?/how many?
+rapio,rapere,rapui,raptus/seize,grab
+re-,(prefixusedwithverbs)/- back
+reddo,reddere,reddidi,redditus/give back,restore
+redeo,redire,redii/go back,come back,return
+refero,referre,rettuli,relatus/bring/carry back,report,tell
+regina,reginae/queen
+regnum,regni/kingdom
+rego,regere,rexi,rectus/rule
+regredior,regredi,regressussum/go back,return
+relinquo,relinquere,reliqui,relictus/leave,leave behind
+res,rei/thing,matter,event
+resisto,resistere,restiti/resist
+respondeo,respondere,respondi,responsus/reply
+rex,regis/king
+rideo,ridere,risi/laugh,smile
+rogo,rogare,rogavi,rogatus/ask,ask for
+Roma,Romae/Rome
+Romanus,Romana,Romanum/Roman
+rumpo,rumpere,rupi,ruptus/break,burst
+sacer,sacra,sacrum/sacred
+saepe/often
+saevus,saeva,saevum/savage,cruel
+saluto,salutare,salutavi,salutatus/greet
+salve!,salvete!/hello!
+sanguis,sanguinis/blood
+sapiens,sapientis/wise
+satis/enough
+scelestus,scelesta,scelestum/wicked
+scelus,sceleris/crime
+scio,scire,scivi,scitus/know
+scribo,scribere,scripsi,scriptus/write
+se,sui/himself,herself,itself,themselves
+sed/but
+sedeo,sedere,sedi/sit
+semper/always
+senator,senatoris/senator
+senex,senis/old man
+sentio,sentire,sensi,sensus/feel,notice
+sequor,sequi,secutussum/follow
+servo,servare,servavi,servatus/save,protect,keep
+servus,servi/slave
+si/if
+sic/thus,in this way
+signum,signi/sign,signal,standard
+silva,silvae/wood
+simul/at the same time
+simulac,simulatque/as soon as
+sine/without
+soleo,solere,solitussum/be accustomed
+solus,sola,solum/alone,lonely,only,on one's own
+specto,spectare,spectavi,spectatus/look at,watch
+spero,sperare,speravi,speratus/hope,expect
+spes,spei/hope
+statim/at once,immediately
+sto,stare,steti/stand
+stultus,stulta,stultum/stupid,foolish
+sub//under,beneath
+subito/suddenly
+sum,esse,fui/be
+summus,summa,summum/highest,greatest,top (of)
+supero,superare,superavi,superatus/overcome,overpower
+surgo,surgere,surrexi/get up,stand up,rise
+suus,sua,suum/his,her,its,their (own)
+taberna,tabernae/shop,inn
+taceo,tacere,tacui,tacitus/be silent,be quiet
+talis,tale/such
+tam/so
+tamen/however
+tandem/at last,finally
+tantus,tanta,tantum/so great,such a great
+tempestas,tempestatis/storm
+templum,templi/temple
+tempus,temporis/time
+teneo,tenere,tenui,tentus/hold
+terra,terrae/ground,land,country
+terreo,terrere,terrui,territus/frighten
+timeo,timere,timui/fear,be afraid
+tollo,tollere,sustuli,sublatus/raise,lift up,hold up
+tot/so many
+totus,tota,totum/whole
+trado,tradere,tradidi,traditus/hand over
+traho,trahere,traxi,tractus/drag
+trans/across
+tristis,triste/sad
+tu,tui/you (singular)
+tum/then
+turba,turbae/crowd
+tuus,tua,tuum/your (singular),yours
+ubi/where?,where,when
+umquam/ever
+unde/from where
+urbs,urbis/city,town
+ut,subjunctive/that,so that,in order that
+ut,indicative/as,when
+uxor,uxoris/wife
+vale!,valete/goodbye,farewell!
+validus,valida,validum/strong
+vehementer/violently,loudly
+vendo,vendere,vendidi,venditus/sell
+venio,venire,veni/come
+verbum,verbi/word
+verto,vertere,verti,versus/turn
+verus,vera,verum/true,real
+vester,vestra,vestrum/your (plural),yours
+via,viae/street,road,way
+victoria,victoriae/victory
+video,videre,vidi,visus/see
+videor,videri,visussum/seem,appear
+villa,villae/house,country villa
+vinco,vincere,vici,victus/conquer,win,be victorious
+vinum,vini/wine
+vir,viri/man
+virtus,virtutis/courage,virtue
+vita,vitae/life
+vivo,vivere,vixi/live,be alive
+vivus,viva,vivum/alive,living
+voco,vocare,vocavi,vocatus/call
+volo,velle,volui/want
+vos,vestrum/you plural
+vox,vocis/voice,shout
+vulnero,vulnerare,vulneravi,vulneratus/wound,injure
+vulnus,vulneris/wound
+vultus,vultus/expression,face
